@@ -1,0 +1,15 @@
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\bin\Debug\net6.0\Jogo Multiusuarios com Adversarios.exe
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\bin\Debug\net6.0\Jogo Multiusuarios com Adversarios.deps.json
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\bin\Debug\net6.0\Jogo Multiusuarios com Adversarios.runtimeconfig.json
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\bin\Debug\net6.0\Jogo Multiusuarios com Adversarios.dll
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\bin\Debug\net6.0\Jogo Multiusuarios com Adversarios.pdb
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\Jogo Multiusuarios com Adversarios.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\Jogo Multiusuarios com Adversarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\Jogo Multiusuarios com Adversarios.AssemblyInfoInputs.cache
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\Jogo Multiusuarios com Adversarios.AssemblyInfo.cs
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\Jogo Multiusuarios com Adversarios.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\Jogo Multiusuarios com Adversarios.dll
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\refint\Jogo Multiusuarios com Adversarios.dll
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\Jogo Multiusuarios com Adversarios.pdb
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\Jogo Multiusuarios com Adversarios.genruntimeconfig.cache
+C:\Users\Ornare\source\repos\Jogo Multiusuarios com Adversarios\obj\Debug\net6.0\ref\Jogo Multiusuarios com Adversarios.dll
